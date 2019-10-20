@@ -17,7 +17,8 @@ class Calculator
 // int Div(int, int);
 // int Div(double, double);
 // we have 4 basic operations
-// and this file was modified	
+// and this file was modified
+// finished lab3	
 // I complete task
 >>>>>>> e0ea21b... add a multiplication operation
 };
